@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice App</string>
+    <string name="roll">Roll</string>
+
+    <string name="_1_0">1: 0</string>
+    <string name="_2_0">2: 0</string>
+    <string name="_3_0">3: 0</string>
+    <string name="_4_0">4: 0</string>
+    <string name="_5_0">5: 0</string>
+    <string name="_6_0">6: 0</string>
+</resources>
